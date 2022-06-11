@@ -1,0 +1,15 @@
+{
+  "token": "",
+  "on-alt": false,
+  "reedem-token": "",
+  "notification": true,
+  "webhook-notification": true,
+  "webhook": "https://ptb.discordapp.com/api/webhooks/779682257598152744/1IMiW8_0F7tuudVhe_-ZZio6D2u5b_9ExsFA7VBQ52VweVVkUCTPVwxKtPsfexD6APIS",
+
+  "delay-enabled": false,
+  "delay": 5,
+
+  "nitro_sniper": true,
+  "giveaway_sniper": true,
+  "privnote_sniper": true
+}
